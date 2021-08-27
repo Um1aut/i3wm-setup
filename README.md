@@ -1,1 +1,1 @@
-# Arch Linux setu
+# Arch Linux setup
